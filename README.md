@@ -33,5 +33,6 @@ This project serves as both a learning platform and a foundational toolset for t
 
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/5f98d61b-c809-4efd-ab73-a793dea0da63)
 
  
